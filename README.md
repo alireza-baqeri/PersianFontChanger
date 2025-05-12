@@ -2,7 +2,7 @@
 A Chrome extension to customize Persian fonts across websites.
 
 ## Features
-- Choose from popular Persian fonts (Vazir, Samim, Shabnam, IranYekan)
+- Choose from popular Persian fonts (Vazir, Samim, Shabnam, IranYekan,...)
 - Option to use Persian numbers
 - Multiple themes (Light, Dark, Blue)
 - Beautiful UI with animations
